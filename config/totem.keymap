@@ -32,13 +32,13 @@
 
         caps {
             bindings = <&caps_word>;
-            key-positions = <6 7>;
+            key-positions = <16 19>;
             layers = <0>;
         };
 
         to_nav_layer {
             bindings = <&to 1>;
-            key-positions = <16 18>;
+            key-positions = <16 17>;
             layers = <0>;
         };
     };
